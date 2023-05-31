@@ -1,0 +1,102 @@
+header {
+    background-color: rgb(106, 106, 104);
+    color: rgb(255, 87, 51);
+    padding: 30px;
+  }
+  
+  h1 {
+    margin: 0;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  
+  nav a {
+    color: rgb(250, 245, 245);
+    padding: 10px;
+    text-decoration-line: underline;
+    font-family: fantasy
+  }
+  
+  nav a:hover {
+    background-color: rgb(83, 74, 74);
+    color: rgb(250, 245, 245);
+  }
+  
+  .search-container {
+    float: right;
+  }
+  
+  .search-container input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+
+  
+  .search-container button {
+    float: right;
+    padding: 6px 10px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .search-container button:hover {
+    background: #ccc;
+  }  
+
+  h2 {
+    color: rgb(106, 106, 104);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+  }
+
+h3 {
+  color: rgb(106, 106, 104);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  text-align: center;
+  font-size: 25px;
+}
+
+  body {
+    background-color: rgb(250, 249, 246);
+  }
+
+  .picture-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 600px;
+  }
+  
+  .pics {
+    margin: 20px 0;
+    padding: 10px;
+    height: 200px;
+    width: auto;
+  }
+
+  .shoecap {
+    text-align: center;
+    padding: 10px;
+    font-size: medium;
+  }
+
+  .paragraph1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align:center
+    }
+  
+    .video-container {
+      position: relative;
+      height: 0;
+      padding-bottom: 300px;
+  }
+  
